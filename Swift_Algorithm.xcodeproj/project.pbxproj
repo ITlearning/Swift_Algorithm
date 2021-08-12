@@ -32,6 +32,7 @@
 		A87FD09126C503B8000858AD /* 13549.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 13549.swift; sourceTree = "<group>"; };
 		A87FD0AC26C50829000858AD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A87FD0AE26C50B01000858AD /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
+		A87FD0B026C539CC000858AD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		A87FD06B26C50376000858AD = {
 			isa = PBXGroup;
 			children = (
+				A87FD0B026C539CC000858AD /* README.md */,
 				A87FD07626C50377000858AD /* Swift_Algorithm */,
 				A87FD07526C50377000858AD /* Products */,
 			);
