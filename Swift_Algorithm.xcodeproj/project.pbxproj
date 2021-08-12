@@ -13,6 +13,7 @@
 		A87FD0AB26C504B5000858AD /* DequeModule in Frameworks */ = {isa = PBXBuildFile; productRef = A87FD0AA26C504B5000858AD /* DequeModule */; };
 		A87FD0AD26C50829000858AD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87FD0AC26C50829000858AD /* main.swift */; };
 		A87FD0AF26C50B01000858AD /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87FD0AE26C50B01000858AD /* Queue.swift */; };
+		A87FD0B226C5517F000858AD /* 7569.swift in Sources */ = {isa = PBXBuildFile; fileRef = A87FD0B126C5517F000858AD /* 7569.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		A87FD0AC26C50829000858AD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A87FD0AE26C50B01000858AD /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
 		A87FD0B026C539CC000858AD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A87FD0B126C5517F000858AD /* 7569.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7569.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 			isa = PBXGroup;
 			children = (
 				A87FD09126C503B8000858AD /* 13549.swift */,
+				A87FD0B126C5517F000858AD /* 7569.swift */,
 			);
 			path = 06.DFS_BFS;
 			sourceTree = "<group>";
@@ -323,6 +326,7 @@
 			files = (
 				A87FD0AD26C50829000858AD /* main.swift in Sources */,
 				A87FD0AF26C50B01000858AD /* Queue.swift in Sources */,
+				A87FD0B226C5517F000858AD /* 7569.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
