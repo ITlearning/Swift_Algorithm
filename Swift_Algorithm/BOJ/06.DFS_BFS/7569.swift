@@ -12,7 +12,7 @@ let n = (read?[1])!
 let h = (read?[2])!
 
 var board = Array<Array<Array<Int>>>()
-
+board.re
 let dx = [0,-1,0,1,0,0]
 let dy = [-1,0,1,0,0,0]
 let dz = [0,0,0,0,-1,1]
@@ -38,6 +38,7 @@ for i in 0...h-1 {
     }
 }
 
+// 투포인터 구현을 위해 두개의 var을 선언
 var left = 0
 var right = q.count
 
@@ -81,3 +82,4 @@ func result() -> Int {
 
 bfs()
 print(result())
+
